@@ -1,0 +1,9 @@
+* updated framework to update the status of each testcase in 
+testLink
+
+* Updated the Framework to attach the report file to TestSuite
+
+
+* Full screenshot
+
+* Added Category in report

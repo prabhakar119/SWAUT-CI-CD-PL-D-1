@@ -1,0 +1,57 @@
+ INFO | 2018-11-14 18:57:36,621 | Common.java | 81 | null:  Startup activites...
+ INFO | 2018-11-14 18:57:36,624 | Common.java | 81 | null:  Test Output Directory creation successful :C:\Files\SWAUT\TestResults\2018_11_14_06_57_36_PM
+ INFO | 2018-11-14 18:57:36,625 | Common.java | 81 | null:  Log File creation successful : LogFile.log
+ INFO | 2018-11-14 18:57:37,708 | Common.java | 81 | null:  Getting value of Tc_Settings_Excelpath from Test Configuration file : ./src/test/resources/TestCaseSettings.xls
+ INFO | 2018-11-14 18:57:37,917 | Common.java | 81 | null:  Getting value of TestDataFile from Test Configuration file : .\src\test\resources\TestData.xls
+ INFO | 2018-11-14 18:57:38,610 | Common.java | 81 | TC_009:  Getting value of ElementLoadWaitTime from Test Configuration file : 30
+ INFO | 2018-11-14 18:57:38,612 | Common.java | 81 | TC_009:  Getting value of TextLoadWaitTime from Test Configuration file : 10
+ INFO | 2018-11-14 18:57:38,613 | Common.java | 81 | TC_009:  Getting value of PageLoadWaitTime from Test Configuration file : 120
+ INFO | 2018-11-14 18:57:38,613 | Common.java | 81 | TC_009:  Getting value of ImplicitlyWaitTime from Test Configuration file : 30
+ INFO | 2018-11-14 18:57:38,613 | Common.java | 81 | TC_009:  Getting value of Server_url from Test Configuration file : http://192.168.80.247/testlink/lib/api/xmlrpc/v1/xmlrpc.php
+ INFO | 2018-11-14 18:57:38,625 | Common.java | 81 | TC_009:  Getting value of Dev_key from Test Configuration file : f8f80ad8ea180f0783bc74555cf948f0
+ INFO | 2018-11-14 18:57:38,625 | Common.java | 81 | TC_009:  Getting value of Project_Name from Test Configuration file : Sample
+ INFO | 2018-11-14 18:57:38,625 | Common.java | 81 | TC_009:  Getting value of Plan_Name from Test Configuration file : Testplan
+ INFO | 2018-11-14 18:57:38,626 | Common.java | 81 | TC_009:  Getting value of Build_Name from Test Configuration file : Build
+ INFO | 2018-11-14 18:57:38,626 | Common.java | 81 | TC_009:  Getting value of TestSuiteNum from Test Configuration file : 4
+ INFO | 2018-11-14 18:57:38,626 | Common.java | 81 | TC_009:  Element time out set
+ INFO | 2018-11-14 18:57:38,627 | Common.java | 81 | TC_009:  ##### Start of Test Case : sign in successfully #####
+ INFO | 2018-11-14 18:57:38,628 | Common.java | 81 | TC_009:  Test Case Name: TC_009
+ INFO | 2018-11-14 18:57:38,628 | Common.java | 81 | TC_009:  Getting value of TestDataFile from Test Configuration file : .\src\test\resources\TestData.xls
+ INFO | 2018-11-14 18:57:38,667 | Common.java | 81 | TC_009:  Test Data Set Name: TC_009
+ INFO | 2018-11-14 18:57:38,667 | Common.java | 81 | TC_009:  Execution Flag: Execute
+ INFO | 2018-11-14 18:57:38,667 | Common.java | 81 | TC_009:  Test Data Set Name: TC_009_01
+ INFO | 2018-11-14 18:57:38,667 | Common.java | 81 | TC_009:  Execution Flag: YES
+ INFO | 2018-11-14 18:57:38,668 | Common.java | 81 | TC_009:  Test Data Set Name: 
+ INFO | 2018-11-14 18:57:38,668 | Common.java | 81 | TC_009:  Execution Flag: 
+ INFO | 2018-11-14 18:57:38,707 | Common.java | 81 | TC_009:  Getting value of Browser from Test Configuration file : Chrome
+ INFO | 2018-11-14 18:58:18,908 | Common.java | 81 | TC_009:  Getting value of url from Test Configuration file : https://www.phptravels.net/
+ INFO | 2018-11-14 18:58:38,926 | Common.java | 81 | TC_009:  Getting value of Browser from Test Configuration file : Chrome
+ INFO | 2018-11-14 18:58:53,503 | Common.java | 81 | TC_009:  Clicked on WebElement-myaccount
+ INFO | 2018-11-14 18:58:55,748 | Common.java | 77 | TC_009:  Report step generation success : Clicked on WebElement-myaccount
+ INFO | 2018-11-14 18:58:58,164 | Common.java | 81 | TC_009:  Clicked on WebElement-sign up
+ INFO | 2018-11-14 18:58:58,165 | Common.java | 77 | TC_009:  Report step generation success : Clicked on WebElement-sign up
+ INFO | 2018-11-14 18:58:59,159 | Common.java | 81 | TC_009:  Entered text -> darshan
+ INFO | 2018-11-14 18:58:59,159 | Common.java | 77 | TC_009:  Report step generation success : Entered text -> darshan
+ INFO | 2018-11-14 18:58:59,408 | Common.java | 81 | TC_009:  Entered text -> kumar
+ INFO | 2018-11-14 18:58:59,408 | Common.java | 77 | TC_009:  Report step generation success : Entered text -> kumar
+ INFO | 2018-11-14 18:58:59,720 | Common.java | 81 | TC_009:  Entered text -> 1234567890
+ INFO | 2018-11-14 18:58:59,720 | Common.java | 77 | TC_009:  Report step generation success : Entered text -> 1234567890
+ INFO | 2018-11-14 18:58:59,997 | Common.java | 81 | TC_009:  Entered text -> darsghan22@gmail.com
+ INFO | 2018-11-14 18:58:59,997 | Common.java | 77 | TC_009:  Report step generation success : Entered text -> darsghan22@gmail.com
+ INFO | 2018-11-14 18:59:00,299 | Common.java | 81 | TC_009:  Entered text -> darshan123
+ INFO | 2018-11-14 18:59:00,299 | Common.java | 77 | TC_009:  Report step generation success : Entered text -> darshan123
+ INFO | 2018-11-14 18:59:00,556 | Common.java | 81 | TC_009:  Entered text -> darshan123
+ INFO | 2018-11-14 18:59:00,556 | Common.java | 77 | TC_009:  Report step generation success : Entered text -> darshan123
+ INFO | 2018-11-14 18:59:00,880 | Common.java | 81 | TC_009:  Clicked on WebElement-signup
+ INFO | 2018-11-14 18:59:00,880 | Common.java | 77 | TC_009:  Report step generation success : Clicked on WebElement-signup
+ INFO | 2018-11-14 18:59:08,903 | Common.java | 81 | TC_009:  Getting value of UpdateTestLinkStatus from Test Configuration file : Yes
+ INFO | 2018-11-14 19:00:33,103 | Common.java | 81 | TC_009:  Unable to update the status for TestCase->TC_009
+ INFO | 2018-11-14 19:00:33,103 | Common.java | 81 | TC_009:  Report step generation success : Unable to update the status for TestCase->TC_009
+ INFO | 2018-11-14 19:00:33,426 | Common.java | 81 | TC_009:  Getting value of SendMail(Yes/No) from Test Configuration file : No
+ INFO | 2018-11-14 19:00:33,426 | Common.java | 81 | TC_009:  Getting value of SendMsg(Yes/No) from Test Configuration file : No
+ INFO | 2018-11-14 19:00:33,427 | Common.java | 81 | TC_009:  Getting value of VoiceCall(Yes/No) from Test Configuration file : No
+ INFO | 2018-11-14 19:00:54,664 | Common.java | 81 | TC_009:  Unable to attach the file to TestLink in following path->C:\Files\SWAUT\TestResults\2018_11_14_06_57_36_PM/Results.html
+ INFO | 2018-11-14 19:00:54,664 | Common.java | 81 | TC_009:  Report step generation success : Unable to attach the file to TestLink in following path->C:\Files\SWAUT\TestResults\2018_11_14_06_57_36_PM/Results.html
+ INFO | 2018-11-14 19:00:54,664 | Common.java | 81 | TC_009:  ###################################
+ INFO | 2018-11-14 19:00:54,664 | Common.java | 81 | TC_009:  Script Execution Complete
+ INFO | 2018-11-14 19:00:54,664 | Common.java | 81 | TC_009:  ####################################

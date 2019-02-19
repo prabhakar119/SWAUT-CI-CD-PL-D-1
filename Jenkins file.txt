@@ -1,0 +1,38 @@
+node {
+    stage('SCM Checkout'){
+        git credentialsId: 'Git', url: 'https://github.com/KarthikReddy12345/SWAUT-CI-CD-PL-D-1.git'
+    }
+    stage('Sonarqube Analysis'){
+        def mvnHome = tool name: 'Maven', type: 'maven'
+        withSonarQubeEnv('SonarQube') {
+            sh "${mvnHome}/bin/mvn sonar:sonar"
+        }
+    }
+    stage('Compile'){
+        def mvnHome = tool name: 'Maven', type: 'maven'
+        def mvnCMD = "${mvnHome}/bin/mvn"
+        sh "${mvnCMD} clean compile"
+    }
+     stage('Testing'){
+        def mvnHome = tool name: 'Maven', type: 'maven'
+        def mvnCMD = "${mvnHome}/bin/mvn"
+        sh "${mvnCMD} test"
+    }
+    stage('Packaging'){
+        def mvnHome = tool name: 'Maven', type: 'maven'
+        def mvnCMD = "${mvnHome}/bin/mvn"
+        sh "${mvnCMD} package"
+    }
+    stage('Install'){
+        def mvnHome = tool name: 'Maven', type: 'maven'
+        def mvnCMD = "${mvnHome}/bin/mvn"
+        sh "${mvnCMD} install"
+    }
+    stage('Build Docker Image'){
+        sh 'docker build -t reddykarthikc/my-app:1.0.0 .'
+    }
+    stage('Push Docker Image'){
+        sh 'docker login docker.io -u reddykarthikc -p *Season116'
+        sh 'docker push docker.io/reddykarthikc/my-app'
+    }
+}

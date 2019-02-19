@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><suite configfailurepolicy="continue" name="Suite" parallel="none">
+  <test name="Test" preserve-order="true">
+    <classes>
+      <class name="TestCases.TestCases"/>
+      <methods>
+        <exclude name="TC_001"/>
+        <exclude name="TC_002"/>
+        <exclude name="TC_003"/>
+        <exclude name="TC_004"/>
+        <exclude name="TC_005"/>
+        <exclude name="TC_006"/>
+        <exclude name="TC_007"/>
+        <exclude name="TC_008"/>
+        <include name="TC_009"/>
+      </methods>
+    </classes>
+  </test>
+</suite>

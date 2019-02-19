@@ -1,0 +1,191 @@
+ INFO | 2019-01-24 14:26:50,205 | Common.java | 81 | null:  Startup activites...
+ INFO | 2019-01-24 14:26:50,208 | Common.java | 81 | null:  Test Output Directory creation successful :C:\Files\SWAUT\TestResults\2019_01_24_02_26_49_PM
+ INFO | 2019-01-24 14:26:50,209 | Common.java | 81 | null:  Log File creation successful : LogFile.log
+ INFO | 2019-01-24 14:26:50,730 | Common.java | 81 | null:  Getting value of Tc_Settings_Excelpath from Test Configuration file : ./src/test/resources/TestCaseSettings.xls
+ INFO | 2019-01-24 14:26:50,831 | Common.java | 81 | null:  Getting value of TestDataFile from Test Configuration file : .\src\test\resources\TestData.xls
+ INFO | 2019-01-24 14:26:51,156 | Common.java | 81 | TC_009:  Getting value of ElementLoadWaitTime from Test Configuration file : 30
+ INFO | 2019-01-24 14:26:51,157 | Common.java | 81 | TC_009:  Getting value of TextLoadWaitTime from Test Configuration file : 10
+ INFO | 2019-01-24 14:26:51,157 | Common.java | 81 | TC_009:  Getting value of PageLoadWaitTime from Test Configuration file : 120
+ INFO | 2019-01-24 14:26:51,158 | Common.java | 81 | TC_009:  Getting value of ImplicitlyWaitTime from Test Configuration file : 30
+ INFO | 2019-01-24 14:26:51,159 | Common.java | 81 | TC_009:  Getting value of Server_url from Test Configuration file : http://192.168.80.247/testlink/lib/api/xmlrpc/v1/xmlrpc.php
+ INFO | 2019-01-24 14:26:51,163 | Common.java | 81 | TC_009:  Getting value of Dev_key from Test Configuration file : f8f80ad8ea180f0783bc74555cf948f0
+ INFO | 2019-01-24 14:26:51,164 | Common.java | 81 | TC_009:  Getting value of Project_Name from Test Configuration file : Sample
+ INFO | 2019-01-24 14:26:51,165 | Common.java | 81 | TC_009:  Getting value of Plan_Name from Test Configuration file : Testplan
+ INFO | 2019-01-24 14:26:51,166 | Common.java | 81 | TC_009:  Getting value of Build_Name from Test Configuration file : Build
+ INFO | 2019-01-24 14:26:51,166 | Common.java | 81 | TC_009:  Getting value of TestSuiteNum from Test Configuration file : 4
+ INFO | 2019-01-24 14:26:51,167 | Common.java | 81 | TC_009:  Element time out set
+ INFO | 2019-01-24 14:26:51,168 | Common.java | 81 | TC_009:  ##### Start of Test Case : sign in successfully #####
+ INFO | 2019-01-24 14:26:51,169 | Common.java | 81 | TC_009:  Test Case Name: TC_009
+ INFO | 2019-01-24 14:26:51,169 | Common.java | 81 | TC_009:  Getting value of TestDataFile from Test Configuration file : .\src\test\resources\TestData.xls
+ INFO | 2019-01-24 14:26:51,206 | Common.java | 81 | TC_009:  Test Data Set Name: TC_009
+ INFO | 2019-01-24 14:26:51,206 | Common.java | 81 | TC_009:  Execution Flag: Execute
+ INFO | 2019-01-24 14:26:51,207 | Common.java | 81 | TC_009:  Test Data Set Name: TC_009_01
+ INFO | 2019-01-24 14:26:51,207 | Common.java | 81 | TC_009:  Execution Flag: YES
+ INFO | 2019-01-24 14:26:51,208 | Common.java | 81 | TC_009:  Test Data Set Name: 
+ INFO | 2019-01-24 14:26:51,208 | Common.java | 81 | TC_009:  Execution Flag: 
+ INFO | 2019-01-24 14:26:51,211 | Common.java | 81 | TC_009:  Getting value of Browser from Test Configuration file : Chrome
+ INFO | 2019-01-24 14:27:08,225 | Common.java | 81 | TC_009:  Getting value of url from Test Configuration file : https://www.phptravels.net/
+ INFO | 2019-01-24 14:27:56,128 | Common.java | 81 | TC_009:  Getting value of Browser from Test Configuration file : Chrome
+ERROR | 2019-01-24 14:29:28,092 | Common.java | 89 | TC_009:  Element is not visible after waiting for 30 Seconds, : Proxy element for: DefaultElementLocator 'By.xpath: (//li[@id='li_myaccount']//b/preceding-sibling::*/following::*[1])[2]'
+ERROR | 2019-01-24 14:29:28,093 | Common.java | 89 | TC_009:  Report step generation success : Element is not visible after waiting for 30 Seconds, : Proxy element for: DefaultElementLocator 'By.xpath: (//li[@id='li_myaccount']//b/preceding-sibling::*/following::*[1])[2]'
+ INFO | 2019-01-24 14:29:28,094 | Common.java | 81 | TC_009:  Getting value of Browser from Test Configuration file : Chrome
+ INFO | 2019-01-24 14:29:29,400 | Common.java | 81 | TC_009:  Getting value of ExecuteRemainingStepsOnFailure(Yes/No) from Test Configuration file : Yes
+ INFO | 2019-01-24 14:29:29,400 | Common.java | 81 | TC_009:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 5
+ INFO | 2019-01-24 14:29:29,401 | Common.java | 81 | TC_009:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 5
+ INFO | 2019-01-24 14:29:29,401 | Common.java | 81 | TC_009:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 5
+ INFO | 2019-01-24 14:29:29,401 | Common.java | 81 | TC_009:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 5
+ERROR | 2019-01-24 14:30:59,501 | Common.java | 89 | TC_009:  Element is not visible after waiting for 5 Seconds, : Proxy element for: DefaultElementLocator 'By.xpath: (//li[@id='li_myaccount']//b/preceding-sibling::*/following::*[1])[2]'
+ERROR | 2019-01-24 14:30:59,502 | Common.java | 89 | TC_009:  Report step generation success : Element is not visible after waiting for 5 Seconds, : Proxy element for: DefaultElementLocator 'By.xpath: (//li[@id='li_myaccount']//b/preceding-sibling::*/following::*[1])[2]'
+ INFO | 2019-01-24 14:30:59,502 | Common.java | 81 | TC_009:  Getting value of Browser from Test Configuration file : Chrome
+ INFO | 2019-01-24 14:31:00,844 | Common.java | 81 | TC_009:  Getting value of ExecuteRemainingStepsOnFailure(Yes/No) from Test Configuration file : Yes
+ INFO | 2019-01-24 14:31:00,844 | Common.java | 81 | TC_009:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 5
+ INFO | 2019-01-24 14:31:00,844 | Common.java | 81 | TC_009:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 5
+ INFO | 2019-01-24 14:31:00,845 | Common.java | 81 | TC_009:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 5
+ INFO | 2019-01-24 14:31:00,845 | Common.java | 81 | TC_009:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 5
+ERROR | 2019-01-24 14:32:30,953 | Common.java | 89 | TC_009:  Unable to click on Element myaccount, Element with following property is not displayed->Proxy element for: DefaultElementLocator 'By.xpath: (//li[@id='li_myaccount']//b/preceding-sibling::*/following::*[1])[2]'
+ERROR | 2019-01-24 14:32:30,953 | Common.java | 89 | TC_009:  Report step generation success : Unable to click on Element myaccount, Element with following property is not displayed->Proxy element for: DefaultElementLocator 'By.xpath: (//li[@id='li_myaccount']//b/preceding-sibling::*/following::*[1])[2]'
+ INFO | 2019-01-24 14:32:30,954 | Common.java | 81 | TC_009:  Getting value of Browser from Test Configuration file : Chrome
+ INFO | 2019-01-24 14:32:32,260 | Common.java | 81 | TC_009:  Getting value of ExecuteRemainingStepsOnFailure(Yes/No) from Test Configuration file : Yes
+ INFO | 2019-01-24 14:32:32,260 | Common.java | 81 | TC_009:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 5
+ INFO | 2019-01-24 14:32:32,260 | Common.java | 81 | TC_009:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 5
+ INFO | 2019-01-24 14:32:32,261 | Common.java | 81 | TC_009:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 5
+ INFO | 2019-01-24 14:32:32,261 | Common.java | 81 | TC_009:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 5
+ERROR | 2019-01-24 14:34:02,324 | Common.java | 89 | TC_009:  Element is not visible after waiting for 5 Seconds, : Proxy element for: DefaultElementLocator 'By.xpath: //li[@class='open']//following::a[contains(text(),'Sign Up') and not(contains(@class,'warning'))]'
+ERROR | 2019-01-24 14:34:02,325 | Common.java | 89 | TC_009:  Report step generation success : Element is not visible after waiting for 5 Seconds, : Proxy element for: DefaultElementLocator 'By.xpath: //li[@class='open']//following::a[contains(text(),'Sign Up') and not(contains(@class,'warning'))]'
+ INFO | 2019-01-24 14:34:02,325 | Common.java | 81 | TC_009:  Getting value of Browser from Test Configuration file : Chrome
+ INFO | 2019-01-24 14:34:03,632 | Common.java | 81 | TC_009:  Getting value of ExecuteRemainingStepsOnFailure(Yes/No) from Test Configuration file : Yes
+ INFO | 2019-01-24 14:34:03,633 | Common.java | 81 | TC_009:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 5
+ INFO | 2019-01-24 14:34:03,633 | Common.java | 81 | TC_009:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 5
+ INFO | 2019-01-24 14:34:03,633 | Common.java | 81 | TC_009:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 5
+ INFO | 2019-01-24 14:34:03,633 | Common.java | 81 | TC_009:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 5
+ERROR | 2019-01-24 14:35:33,739 | Common.java | 89 | TC_009:  Unable to click on Element sign up, Element with following property is not displayed->Proxy element for: DefaultElementLocator 'By.xpath: //li[@class='open']//following::a[contains(text(),'Sign Up') and not(contains(@class,'warning'))]'
+ERROR | 2019-01-24 14:35:33,739 | Common.java | 89 | TC_009:  Report step generation success : Unable to click on Element sign up, Element with following property is not displayed->Proxy element for: DefaultElementLocator 'By.xpath: //li[@class='open']//following::a[contains(text(),'Sign Up') and not(contains(@class,'warning'))]'
+ INFO | 2019-01-24 14:35:33,740 | Common.java | 81 | TC_009:  Getting value of Browser from Test Configuration file : Chrome
+ INFO | 2019-01-24 14:35:35,045 | Common.java | 81 | TC_009:  Getting value of ExecuteRemainingStepsOnFailure(Yes/No) from Test Configuration file : Yes
+ INFO | 2019-01-24 14:35:35,045 | Common.java | 81 | TC_009:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 5
+ INFO | 2019-01-24 14:35:35,045 | Common.java | 81 | TC_009:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 5
+ INFO | 2019-01-24 14:35:35,045 | Common.java | 81 | TC_009:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 5
+ INFO | 2019-01-24 14:35:35,046 | Common.java | 81 | TC_009:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 5
+ERROR | 2019-01-24 14:37:35,202 | Common.java | 89 | TC_009:  Element is not visible after waiting for 5 Seconds, : Proxy element for: DefaultElementLocator 'By.xpath: //input[@name='firstname']'
+ERROR | 2019-01-24 14:37:35,202 | Common.java | 89 | TC_009:  Report step generation success : Element is not visible after waiting for 5 Seconds, : Proxy element for: DefaultElementLocator 'By.xpath: //input[@name='firstname']'
+ INFO | 2019-01-24 14:37:35,205 | Common.java | 81 | TC_009:  Getting value of Browser from Test Configuration file : Chrome
+ INFO | 2019-01-24 14:37:36,503 | Common.java | 81 | TC_009:  Getting value of ExecuteRemainingStepsOnFailure(Yes/No) from Test Configuration file : Yes
+ INFO | 2019-01-24 14:37:36,504 | Common.java | 81 | TC_009:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 5
+ INFO | 2019-01-24 14:37:36,504 | Common.java | 81 | TC_009:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 5
+ INFO | 2019-01-24 14:37:36,504 | Common.java | 81 | TC_009:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 5
+ INFO | 2019-01-24 14:37:36,505 | Common.java | 81 | TC_009:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 5
+ERROR | 2019-01-24 14:38:36,583 | Common.java | 89 | TC_009:  Element is not displayed, Unable to enter text->darshan
+ERROR | 2019-01-24 14:38:36,583 | Common.java | 89 | TC_009:  Report step generation success : Element is not displayed, Unable to enter text->darshan
+ INFO | 2019-01-24 14:38:36,583 | Common.java | 81 | TC_009:  Getting value of Browser from Test Configuration file : Chrome
+ INFO | 2019-01-24 14:38:37,883 | Common.java | 81 | TC_009:  Getting value of ExecuteRemainingStepsOnFailure(Yes/No) from Test Configuration file : Yes
+ INFO | 2019-01-24 14:38:37,883 | Common.java | 81 | TC_009:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 5
+ INFO | 2019-01-24 14:38:37,883 | Common.java | 81 | TC_009:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 5
+ INFO | 2019-01-24 14:38:37,884 | Common.java | 81 | TC_009:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 5
+ INFO | 2019-01-24 14:38:37,884 | Common.java | 81 | TC_009:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 5
+ERROR | 2019-01-24 14:40:07,953 | Common.java | 89 | TC_009:  Element is not visible after waiting for 5 Seconds, : Proxy element for: DefaultElementLocator 'By.xpath: //input[@name='lastname']'
+ERROR | 2019-01-24 14:40:07,953 | Common.java | 89 | TC_009:  Report step generation success : Element is not visible after waiting for 5 Seconds, : Proxy element for: DefaultElementLocator 'By.xpath: //input[@name='lastname']'
+ INFO | 2019-01-24 14:40:07,954 | Common.java | 81 | TC_009:  Getting value of Browser from Test Configuration file : Chrome
+ INFO | 2019-01-24 14:40:09,259 | Common.java | 81 | TC_009:  Getting value of ExecuteRemainingStepsOnFailure(Yes/No) from Test Configuration file : Yes
+ INFO | 2019-01-24 14:40:09,259 | Common.java | 81 | TC_009:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 5
+ INFO | 2019-01-24 14:40:09,259 | Common.java | 81 | TC_009:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 5
+ INFO | 2019-01-24 14:40:09,260 | Common.java | 81 | TC_009:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 5
+ INFO | 2019-01-24 14:40:09,260 | Common.java | 81 | TC_009:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 5
+ERROR | 2019-01-24 14:41:09,310 | Common.java | 89 | TC_009:  Element is not displayed, Unable to enter text->kumar
+ERROR | 2019-01-24 14:41:09,310 | Common.java | 89 | TC_009:  Report step generation success : Element is not displayed, Unable to enter text->kumar
+ INFO | 2019-01-24 14:41:09,310 | Common.java | 81 | TC_009:  Getting value of Browser from Test Configuration file : Chrome
+ INFO | 2019-01-24 14:41:10,610 | Common.java | 81 | TC_009:  Getting value of ExecuteRemainingStepsOnFailure(Yes/No) from Test Configuration file : Yes
+ INFO | 2019-01-24 14:41:10,611 | Common.java | 81 | TC_009:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 5
+ INFO | 2019-01-24 14:41:10,611 | Common.java | 81 | TC_009:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 5
+ INFO | 2019-01-24 14:41:10,611 | Common.java | 81 | TC_009:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 5
+ INFO | 2019-01-24 14:41:10,612 | Common.java | 81 | TC_009:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 5
+ERROR | 2019-01-24 14:42:40,688 | Common.java | 89 | TC_009:  Element is not visible after waiting for 5 Seconds, : Proxy element for: DefaultElementLocator 'By.xpath: //input[@name='phone']'
+ERROR | 2019-01-24 14:42:40,688 | Common.java | 89 | TC_009:  Report step generation success : Element is not visible after waiting for 5 Seconds, : Proxy element for: DefaultElementLocator 'By.xpath: //input[@name='phone']'
+ INFO | 2019-01-24 14:42:40,689 | Common.java | 81 | TC_009:  Getting value of Browser from Test Configuration file : Chrome
+ INFO | 2019-01-24 14:42:41,992 | Common.java | 81 | TC_009:  Getting value of ExecuteRemainingStepsOnFailure(Yes/No) from Test Configuration file : Yes
+ INFO | 2019-01-24 14:42:41,992 | Common.java | 81 | TC_009:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 5
+ INFO | 2019-01-24 14:42:41,992 | Common.java | 81 | TC_009:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 5
+ INFO | 2019-01-24 14:42:41,993 | Common.java | 81 | TC_009:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 5
+ INFO | 2019-01-24 14:42:41,993 | Common.java | 81 | TC_009:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 5
+ERROR | 2019-01-24 14:43:42,041 | Common.java | 89 | TC_009:  Element is not displayed, Unable to enter text->1234567890
+ERROR | 2019-01-24 14:43:42,042 | Common.java | 89 | TC_009:  Report step generation success : Element is not displayed, Unable to enter text->1234567890
+ INFO | 2019-01-24 14:43:42,042 | Common.java | 81 | TC_009:  Getting value of Browser from Test Configuration file : Chrome
+ INFO | 2019-01-24 14:43:43,370 | Common.java | 81 | TC_009:  Getting value of ExecuteRemainingStepsOnFailure(Yes/No) from Test Configuration file : Yes
+ INFO | 2019-01-24 14:43:43,370 | Common.java | 81 | TC_009:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 5
+ INFO | 2019-01-24 14:43:43,371 | Common.java | 81 | TC_009:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 5
+ INFO | 2019-01-24 14:43:43,371 | Common.java | 81 | TC_009:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 5
+ INFO | 2019-01-24 14:43:43,371 | Common.java | 81 | TC_009:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 5
+ERROR | 2019-01-24 14:45:13,471 | Common.java | 89 | TC_009:  Element is not visible after waiting for 5 Seconds, : Proxy element for: DefaultElementLocator 'By.xpath: //input[@name='email']'
+ERROR | 2019-01-24 14:45:13,471 | Common.java | 89 | TC_009:  Report step generation success : Element is not visible after waiting for 5 Seconds, : Proxy element for: DefaultElementLocator 'By.xpath: //input[@name='email']'
+ INFO | 2019-01-24 14:45:13,472 | Common.java | 81 | TC_009:  Getting value of Browser from Test Configuration file : Chrome
+ INFO | 2019-01-24 14:45:14,770 | Common.java | 81 | TC_009:  Getting value of ExecuteRemainingStepsOnFailure(Yes/No) from Test Configuration file : Yes
+ INFO | 2019-01-24 14:45:14,770 | Common.java | 81 | TC_009:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 5
+ INFO | 2019-01-24 14:45:14,770 | Common.java | 81 | TC_009:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 5
+ INFO | 2019-01-24 14:45:14,771 | Common.java | 81 | TC_009:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 5
+ INFO | 2019-01-24 14:45:14,771 | Common.java | 81 | TC_009:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 5
+ERROR | 2019-01-24 14:46:14,888 | Common.java | 89 | TC_009:  Element is not displayed, Unable to enter text->darsghan22@gmail.com
+ERROR | 2019-01-24 14:46:14,888 | Common.java | 89 | TC_009:  Report step generation success : Element is not displayed, Unable to enter text->darsghan22@gmail.com
+ INFO | 2019-01-24 14:46:14,888 | Common.java | 81 | TC_009:  Getting value of Browser from Test Configuration file : Chrome
+ INFO | 2019-01-24 14:46:16,185 | Common.java | 81 | TC_009:  Getting value of ExecuteRemainingStepsOnFailure(Yes/No) from Test Configuration file : Yes
+ INFO | 2019-01-24 14:46:16,185 | Common.java | 81 | TC_009:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 5
+ INFO | 2019-01-24 14:46:16,185 | Common.java | 81 | TC_009:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 5
+ INFO | 2019-01-24 14:46:16,185 | Common.java | 81 | TC_009:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 5
+ INFO | 2019-01-24 14:46:16,186 | Common.java | 81 | TC_009:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 5
+ERROR | 2019-01-24 14:47:46,309 | Common.java | 89 | TC_009:  Element is not visible after waiting for 5 Seconds, : Proxy element for: DefaultElementLocator 'By.xpath: //input[@name='password']'
+ERROR | 2019-01-24 14:47:46,309 | Common.java | 89 | TC_009:  Report step generation success : Element is not visible after waiting for 5 Seconds, : Proxy element for: DefaultElementLocator 'By.xpath: //input[@name='password']'
+ INFO | 2019-01-24 14:47:46,309 | Common.java | 81 | TC_009:  Getting value of Browser from Test Configuration file : Chrome
+ INFO | 2019-01-24 14:47:47,608 | Common.java | 81 | TC_009:  Getting value of ExecuteRemainingStepsOnFailure(Yes/No) from Test Configuration file : Yes
+ INFO | 2019-01-24 14:47:47,608 | Common.java | 81 | TC_009:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 5
+ INFO | 2019-01-24 14:47:47,608 | Common.java | 81 | TC_009:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 5
+ INFO | 2019-01-24 14:47:47,609 | Common.java | 81 | TC_009:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 5
+ INFO | 2019-01-24 14:47:47,609 | Common.java | 81 | TC_009:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 5
+ERROR | 2019-01-24 14:48:47,675 | Common.java | 89 | TC_009:  Element is not displayed, Unable to enter text->darshan123
+ERROR | 2019-01-24 14:48:47,675 | Common.java | 89 | TC_009:  Report step generation success : Element is not displayed, Unable to enter text->darshan123
+ INFO | 2019-01-24 14:48:47,675 | Common.java | 81 | TC_009:  Getting value of Browser from Test Configuration file : Chrome
+ INFO | 2019-01-24 14:48:48,976 | Common.java | 81 | TC_009:  Getting value of ExecuteRemainingStepsOnFailure(Yes/No) from Test Configuration file : Yes
+ INFO | 2019-01-24 14:48:48,976 | Common.java | 81 | TC_009:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 5
+ INFO | 2019-01-24 14:48:48,976 | Common.java | 81 | TC_009:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 5
+ INFO | 2019-01-24 14:48:48,976 | Common.java | 81 | TC_009:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 5
+ INFO | 2019-01-24 14:48:48,976 | Common.java | 81 | TC_009:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 5
+ERROR | 2019-01-24 14:50:19,036 | Common.java | 89 | TC_009:  Element is not visible after waiting for 5 Seconds, : Proxy element for: DefaultElementLocator 'By.xpath: //input[@name='confirmpassword']'
+ERROR | 2019-01-24 14:50:19,036 | Common.java | 89 | TC_009:  Report step generation success : Element is not visible after waiting for 5 Seconds, : Proxy element for: DefaultElementLocator 'By.xpath: //input[@name='confirmpassword']'
+ INFO | 2019-01-24 14:50:19,037 | Common.java | 81 | TC_009:  Getting value of Browser from Test Configuration file : Chrome
+ INFO | 2019-01-24 14:50:20,335 | Common.java | 81 | TC_009:  Getting value of ExecuteRemainingStepsOnFailure(Yes/No) from Test Configuration file : Yes
+ INFO | 2019-01-24 14:50:20,335 | Common.java | 81 | TC_009:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 5
+ INFO | 2019-01-24 14:50:20,335 | Common.java | 81 | TC_009:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 5
+ INFO | 2019-01-24 14:50:20,336 | Common.java | 81 | TC_009:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 5
+ INFO | 2019-01-24 14:50:20,336 | Common.java | 81 | TC_009:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 5
+ERROR | 2019-01-24 14:51:20,376 | Common.java | 89 | TC_009:  Element is not displayed, Unable to enter text->darshan123
+ERROR | 2019-01-24 14:51:20,377 | Common.java | 89 | TC_009:  Report step generation success : Element is not displayed, Unable to enter text->darshan123
+ INFO | 2019-01-24 14:51:20,377 | Common.java | 81 | TC_009:  Getting value of Browser from Test Configuration file : Chrome
+ INFO | 2019-01-24 14:51:21,673 | Common.java | 81 | TC_009:  Getting value of ExecuteRemainingStepsOnFailure(Yes/No) from Test Configuration file : Yes
+ INFO | 2019-01-24 14:51:21,674 | Common.java | 81 | TC_009:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 5
+ INFO | 2019-01-24 14:51:21,674 | Common.java | 81 | TC_009:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 5
+ INFO | 2019-01-24 14:51:21,674 | Common.java | 81 | TC_009:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 5
+ INFO | 2019-01-24 14:51:21,674 | Common.java | 81 | TC_009:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 5
+ERROR | 2019-01-24 14:52:51,776 | Common.java | 89 | TC_009:  Element is not visible after waiting for 5 Seconds, : Proxy element for: DefaultElementLocator 'By.xpath: //button[@class='signupbtn btn_full btn btn-action btn-block btn-lg']'
+ERROR | 2019-01-24 14:52:51,776 | Common.java | 89 | TC_009:  Report step generation success : Element is not visible after waiting for 5 Seconds, : Proxy element for: DefaultElementLocator 'By.xpath: //button[@class='signupbtn btn_full btn btn-action btn-block btn-lg']'
+ INFO | 2019-01-24 14:52:51,777 | Common.java | 81 | TC_009:  Getting value of Browser from Test Configuration file : Chrome
+ INFO | 2019-01-24 14:52:53,078 | Common.java | 81 | TC_009:  Getting value of ExecuteRemainingStepsOnFailure(Yes/No) from Test Configuration file : Yes
+ INFO | 2019-01-24 14:52:53,078 | Common.java | 81 | TC_009:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 5
+ INFO | 2019-01-24 14:52:53,079 | Common.java | 81 | TC_009:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 5
+ INFO | 2019-01-24 14:52:53,079 | Common.java | 81 | TC_009:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 5
+ INFO | 2019-01-24 14:52:53,079 | Common.java | 81 | TC_009:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 5
+ERROR | 2019-01-24 14:54:23,220 | Common.java | 89 | TC_009:  Unable to click on Element signup, Element with following property is not displayed->Proxy element for: DefaultElementLocator 'By.xpath: //button[@class='signupbtn btn_full btn btn-action btn-block btn-lg']'
+ERROR | 2019-01-24 14:54:23,221 | Common.java | 89 | TC_009:  Report step generation success : Unable to click on Element signup, Element with following property is not displayed->Proxy element for: DefaultElementLocator 'By.xpath: //button[@class='signupbtn btn_full btn btn-action btn-block btn-lg']'
+ INFO | 2019-01-24 14:54:23,221 | Common.java | 81 | TC_009:  Getting value of Browser from Test Configuration file : Chrome
+ INFO | 2019-01-24 14:54:24,522 | Common.java | 81 | TC_009:  Getting value of ExecuteRemainingStepsOnFailure(Yes/No) from Test Configuration file : Yes
+ INFO | 2019-01-24 14:54:24,522 | Common.java | 81 | TC_009:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 5
+ INFO | 2019-01-24 14:54:24,523 | Common.java | 81 | TC_009:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 5
+ INFO | 2019-01-24 14:54:24,523 | Common.java | 81 | TC_009:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 5
+ INFO | 2019-01-24 14:54:24,523 | Common.java | 81 | TC_009:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 5
+ INFO | 2019-01-24 14:54:28,848 | Common.java | 81 | TC_009:  Getting value of UpdateTestLinkStatus from Test Configuration file : Yes
+ INFO | 2019-01-24 14:55:52,985 | Common.java | 81 | TC_009:  Unable to update the status for TestCase->TC_009
+ INFO | 2019-01-24 14:55:52,985 | Common.java | 81 | TC_009:  Report step generation success : Unable to update the status for TestCase->TC_009
+ INFO | 2019-01-24 14:55:53,152 | Common.java | 81 | TC_009:  Getting value of SendMail(Yes/No) from Test Configuration file : No
+ INFO | 2019-01-24 14:55:53,153 | Common.java | 81 | TC_009:  Getting value of SendMsg(Yes/No) from Test Configuration file : No
+ INFO | 2019-01-24 14:55:53,153 | Common.java | 81 | TC_009:  Getting value of VoiceCall(Yes/No) from Test Configuration file : No
+ INFO | 2019-01-24 14:56:14,372 | Common.java | 81 | TC_009:  Unable to attach the file to TestLink in following path->C:\Files\SWAUT\TestResults\2019_01_24_02_26_49_PM/Results.html
+ INFO | 2019-01-24 14:56:14,372 | Common.java | 81 | TC_009:  Report step generation success : Unable to attach the file to TestLink in following path->C:\Files\SWAUT\TestResults\2019_01_24_02_26_49_PM/Results.html
+ INFO | 2019-01-24 14:56:14,373 | Common.java | 81 | TC_009:  ###################################
+ INFO | 2019-01-24 14:56:14,373 | Common.java | 81 | TC_009:  Script Execution Complete
+ INFO | 2019-01-24 14:56:14,373 | Common.java | 81 | TC_009:  ####################################

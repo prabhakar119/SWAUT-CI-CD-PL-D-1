@@ -1,0 +1,57 @@
+ INFO | 2019-01-23 14:00:51,712 | Common.java | 81 | null:  Startup activites...
+ INFO | 2019-01-23 14:00:51,716 | Common.java | 81 | null:  Test Output Directory creation successful :C:\Files\SWAUT\TestResults\2019_01_23_02_00_51_PM
+ INFO | 2019-01-23 14:00:51,716 | Common.java | 81 | null:  Log File creation successful : LogFile.log
+ INFO | 2019-01-23 14:00:51,899 | Common.java | 81 | null:  Getting value of Tc_Settings_Excelpath from Test Configuration file : ./src/test/resources/TestCaseSettings.xls
+ INFO | 2019-01-23 14:00:51,982 | Common.java | 81 | null:  Getting value of TestDataFile from Test Configuration file : .\src\test\resources\TestData.xls
+ INFO | 2019-01-23 14:00:52,145 | Common.java | 81 | __CLR4_3_1ne4tjkti:  Getting value of ElementLoadWaitTime from Test Configuration file : 30
+ INFO | 2019-01-23 14:00:52,148 | Common.java | 81 | __CLR4_3_1ne4tjkti:  Getting value of TextLoadWaitTime from Test Configuration file : 10
+ INFO | 2019-01-23 14:00:52,149 | Common.java | 81 | __CLR4_3_1ne4tjkti:  Getting value of PageLoadWaitTime from Test Configuration file : 120
+ INFO | 2019-01-23 14:00:52,150 | Common.java | 81 | __CLR4_3_1ne4tjkti:  Getting value of ImplicitlyWaitTime from Test Configuration file : 30
+ INFO | 2019-01-23 14:00:52,150 | Common.java | 81 | __CLR4_3_1ne4tjkti:  Getting value of Server_url from Test Configuration file : http://192.168.80.247/testlink/lib/api/xmlrpc/v1/xmlrpc.php
+ INFO | 2019-01-23 14:00:52,152 | Common.java | 81 | __CLR4_3_1ne4tjkti:  Getting value of Dev_key from Test Configuration file : f8f80ad8ea180f0783bc74555cf948f0
+ INFO | 2019-01-23 14:00:52,152 | Common.java | 81 | __CLR4_3_1ne4tjkti:  Getting value of Project_Name from Test Configuration file : Sample
+ INFO | 2019-01-23 14:00:52,152 | Common.java | 81 | __CLR4_3_1ne4tjkti:  Getting value of Plan_Name from Test Configuration file : Testplan
+ INFO | 2019-01-23 14:00:52,153 | Common.java | 81 | __CLR4_3_1ne4tjkti:  Getting value of Build_Name from Test Configuration file : Build
+ INFO | 2019-01-23 14:00:52,153 | Common.java | 81 | __CLR4_3_1ne4tjkti:  Getting value of TestSuiteNum from Test Configuration file : 4
+ INFO | 2019-01-23 14:00:52,153 | Common.java | 81 | __CLR4_3_1ne4tjkti:  Element time out set
+ INFO | 2019-01-23 14:00:52,158 | Common.java | 81 | __CLR4_3_1ne4tjkti:  ##### Start of Test Case : sign in successfully #####
+ INFO | 2019-01-23 14:00:52,160 | Common.java | 81 | __CLR4_3_1ne4tjkti:  Test Case Name: TC_009
+ INFO | 2019-01-23 14:00:52,161 | Common.java | 81 | __CLR4_3_1ne4tjkti:  Getting value of TestDataFile from Test Configuration file : .\src\test\resources\TestData.xls
+ INFO | 2019-01-23 14:00:52,211 | Common.java | 81 | __CLR4_3_1ne4tjkti:  Test Data Set Name: TC_009
+ INFO | 2019-01-23 14:00:52,211 | Common.java | 81 | __CLR4_3_1ne4tjkti:  Execution Flag: Execute
+ INFO | 2019-01-23 14:00:52,212 | Common.java | 81 | __CLR4_3_1ne4tjkti:  Test Data Set Name: TC_009_01
+ INFO | 2019-01-23 14:00:52,212 | Common.java | 81 | __CLR4_3_1ne4tjkti:  Execution Flag: YES
+ INFO | 2019-01-23 14:00:52,212 | Common.java | 81 | __CLR4_3_1ne4tjkti:  Test Data Set Name: 
+ INFO | 2019-01-23 14:00:52,212 | Common.java | 81 | __CLR4_3_1ne4tjkti:  Execution Flag: 
+ INFO | 2019-01-23 14:00:52,215 | Common.java | 81 | __CLR4_3_1ne4tjkti:  Getting value of Browser from Test Configuration file : Chrome
+ INFO | 2019-01-23 14:00:58,279 | Common.java | 81 | __CLR4_3_1ne4tjkti:  Getting value of url from Test Configuration file : https://www.phptravels.net/
+ INFO | 2019-01-23 14:01:07,752 | Common.java | 81 | __CLR4_3_1ne4tjkti:  Getting value of Browser from Test Configuration file : Chrome
+ INFO | 2019-01-23 14:01:17,343 | Common.java | 81 | __CLR4_3_1ne4tjkti:  Clicked on WebElement-myaccount
+ INFO | 2019-01-23 14:01:17,344 | Common.java | 77 | __CLR4_3_1ne4tjkti:  Report step generation success : Clicked on WebElement-myaccount
+ INFO | 2019-01-23 14:01:19,556 | Common.java | 81 | __CLR4_3_1ne4tjkti:  Clicked on WebElement-sign up
+ INFO | 2019-01-23 14:01:19,557 | Common.java | 77 | __CLR4_3_1ne4tjkti:  Report step generation success : Clicked on WebElement-sign up
+ INFO | 2019-01-23 14:01:19,894 | Common.java | 81 | __CLR4_3_1ne4tjkti:  Entered text -> darshan
+ INFO | 2019-01-23 14:01:19,894 | Common.java | 77 | __CLR4_3_1ne4tjkti:  Report step generation success : Entered text -> darshan
+ INFO | 2019-01-23 14:01:20,168 | Common.java | 81 | __CLR4_3_1ne4tjkti:  Entered text -> kumar
+ INFO | 2019-01-23 14:01:20,168 | Common.java | 77 | __CLR4_3_1ne4tjkti:  Report step generation success : Entered text -> kumar
+ INFO | 2019-01-23 14:01:20,440 | Common.java | 81 | __CLR4_3_1ne4tjkti:  Entered text -> 1234567890
+ INFO | 2019-01-23 14:01:20,442 | Common.java | 77 | __CLR4_3_1ne4tjkti:  Report step generation success : Entered text -> 1234567890
+ INFO | 2019-01-23 14:01:20,700 | Common.java | 81 | __CLR4_3_1ne4tjkti:  Entered text -> darsghan22@gmail.com
+ INFO | 2019-01-23 14:01:20,701 | Common.java | 77 | __CLR4_3_1ne4tjkti:  Report step generation success : Entered text -> darsghan22@gmail.com
+ INFO | 2019-01-23 14:01:20,939 | Common.java | 81 | __CLR4_3_1ne4tjkti:  Entered text -> darshan123
+ INFO | 2019-01-23 14:01:20,939 | Common.java | 77 | __CLR4_3_1ne4tjkti:  Report step generation success : Entered text -> darshan123
+ INFO | 2019-01-23 14:01:21,171 | Common.java | 81 | __CLR4_3_1ne4tjkti:  Entered text -> darshan123
+ INFO | 2019-01-23 14:01:21,171 | Common.java | 77 | __CLR4_3_1ne4tjkti:  Report step generation success : Entered text -> darshan123
+ INFO | 2019-01-23 14:01:21,391 | Common.java | 81 | __CLR4_3_1ne4tjkti:  Clicked on WebElement-signup
+ INFO | 2019-01-23 14:01:21,391 | Common.java | 77 | __CLR4_3_1ne4tjkti:  Report step generation success : Clicked on WebElement-signup
+ INFO | 2019-01-23 14:01:24,486 | Common.java | 81 | __CLR4_3_1ne4tjkti:  Getting value of UpdateTestLinkStatus from Test Configuration file : Yes
+ INFO | 2019-01-23 14:02:48,555 | Common.java | 81 | __CLR4_3_1ne4tjkti:  Unable to update the status for TestCase->__CLR4_3_1ne4tjkti
+ INFO | 2019-01-23 14:02:48,555 | Common.java | 81 | __CLR4_3_1ne4tjkti:  Report step generation success : Unable to update the status for TestCase->__CLR4_3_1ne4tjkti
+ INFO | 2019-01-23 14:02:48,711 | Common.java | 81 | __CLR4_3_1ne4tjkti:  Getting value of SendMail(Yes/No) from Test Configuration file : No
+ INFO | 2019-01-23 14:02:48,713 | Common.java | 81 | __CLR4_3_1ne4tjkti:  Getting value of SendMsg(Yes/No) from Test Configuration file : No
+ INFO | 2019-01-23 14:02:48,716 | Common.java | 81 | __CLR4_3_1ne4tjkti:  Getting value of VoiceCall(Yes/No) from Test Configuration file : No
+ INFO | 2019-01-23 14:03:09,833 | Common.java | 81 | __CLR4_3_1ne4tjkti:  Unable to attach the file to TestLink in following path->C:\Files\SWAUT\TestResults\2019_01_23_02_00_51_PM/Results.html
+ INFO | 2019-01-23 14:03:09,833 | Common.java | 81 | __CLR4_3_1ne4tjkti:  Report step generation success : Unable to attach the file to TestLink in following path->C:\Files\SWAUT\TestResults\2019_01_23_02_00_51_PM/Results.html
+ INFO | 2019-01-23 14:03:09,834 | Common.java | 81 | __CLR4_3_1ne4tjkti:  ###################################
+ INFO | 2019-01-23 14:03:09,834 | Common.java | 81 | __CLR4_3_1ne4tjkti:  Script Execution Complete
+ INFO | 2019-01-23 14:03:09,834 | Common.java | 81 | __CLR4_3_1ne4tjkti:  ####################################

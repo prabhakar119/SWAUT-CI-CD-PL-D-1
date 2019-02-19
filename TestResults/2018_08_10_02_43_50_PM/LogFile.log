@@ -1,0 +1,13 @@
+ INFO | 2018-08-10 14:43:50,390 | Common.java | 81 | null:  Startup activites...
+ INFO | 2018-08-10 14:43:50,406 | Common.java | 81 | null:  Test Output Directory creation successful :C:\workspace\SWAUT\TestResults\2018_08_10_02_43_50_PM
+ INFO | 2018-08-10 14:43:50,406 | Common.java | 81 | null:  Log File creation successful : LogFile.log
+ INFO | 2018-08-10 14:43:50,562 | Common.java | 81 | null:  Getting value of TestDataFile from Test Configuration file : TestDataFile
+ INFO | 2018-08-10 14:43:50,640 | Common.java | 81 | TC_009:  Getting value of ElementLoadWaitTime from Test Configuration file : ElementLoadWaitTime
+ INFO | 2018-08-10 14:43:50,719 | Common.java | 81 | TC_009:  Getting value of SendMail(Yes/No) from Test Configuration file : SendMail(Yes/No)
+ INFO | 2018-08-10 14:43:50,719 | Common.java | 81 | TC_009:  Getting value of SendMsg(Yes/No) from Test Configuration file : SendMsg(Yes/No)
+ INFO | 2018-08-10 14:43:50,719 | Common.java | 81 | TC_009:  Getting value of VoiceCall(Yes/No) from Test Configuration file : VoiceCall(Yes/No)
+ INFO | 2018-08-10 14:43:50,719 | Common.java | 81 | TC_009:  Unable to attach the file to TestLink in following path->C:\workspace\SWAUT\TestResults\2018_08_10_02_43_50_PM/Results.html
+ERROR | 2018-08-10 14:43:50,719 | Common.java | 89 | TC_009:  java.lang.NullPointerException
+ INFO | 2018-08-10 14:43:50,719 | Common.java | 81 | TC_009:  ###################################
+ INFO | 2018-08-10 14:43:50,719 | Common.java | 81 | TC_009:  Script Execution Complete
+ INFO | 2018-08-10 14:43:50,719 | Common.java | 81 | TC_009:  ####################################

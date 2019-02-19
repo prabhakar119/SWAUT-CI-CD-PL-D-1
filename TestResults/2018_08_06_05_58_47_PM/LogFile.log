@@ -1,0 +1,35 @@
+ INFO | 2018-08-06 17:58:47,257 | Common.java | 81 | null:  Startup activites...
+ INFO | 2018-08-06 17:58:47,257 | Common.java | 81 | null:  Test Output Directory creation successful :C:\workspace\SWAUT\TestResults\2018_08_06_05_58_47_PM
+ INFO | 2018-08-06 17:58:47,257 | Common.java | 81 | null:  Log File creation successful : LogFile.log
+ INFO | 2018-08-06 17:58:47,429 | Common.java | 81 | null:  Getting value of Tc_Settings_Excelpath from Test Configuration file : ./src/test/resources/TestCaseSettings.xls
+ INFO | 2018-08-06 17:58:47,507 | Common.java | 81 | null:  Getting value of TestDataFile from Test Configuration file : .\src\test\resources\TestData.xls
+ INFO | 2018-08-06 17:58:47,617 | Common.java | 81 | TC_008:  Getting value of ElementLoadWaitTime from Test Configuration file : 30
+ INFO | 2018-08-06 17:58:47,617 | Common.java | 81 | TC_008:  Getting value of TextLoadWaitTime from Test Configuration file : 10
+ INFO | 2018-08-06 17:58:47,617 | Common.java | 81 | TC_008:  Getting value of PageLoadWaitTime from Test Configuration file : 120
+ INFO | 2018-08-06 17:58:47,617 | Common.java | 81 | TC_008:  Getting value of ImplicitlyWaitTime from Test Configuration file : 30
+ INFO | 2018-08-06 17:58:47,617 | Common.java | 81 | TC_008:  Getting value of Server_url from Test Configuration file : http://192.168.80.247/testlink/lib/api/xmlrpc/v1/xmlrpc.php
+ INFO | 2018-08-06 17:58:47,617 | Common.java | 81 | TC_008:  Getting value of Dev_key from Test Configuration file : f8f80ad8ea180f0783bc74555cf948f0
+ INFO | 2018-08-06 17:58:47,617 | Common.java | 81 | TC_008:  Getting value of Project_Name from Test Configuration file : Sample
+ INFO | 2018-08-06 17:58:47,617 | Common.java | 81 | TC_008:  Getting value of Plan_Name from Test Configuration file : Testplan
+ INFO | 2018-08-06 17:58:47,617 | Common.java | 81 | TC_008:  Getting value of Build_Name from Test Configuration file : Build
+ INFO | 2018-08-06 17:58:47,617 | Common.java | 81 | TC_008:  Getting value of TestSuiteNum from Test Configuration file : 4
+ INFO | 2018-08-06 17:58:47,617 | Common.java | 81 | TC_008:  Element time out set
+ INFO | 2018-08-06 17:58:47,617 | Common.java | 81 | TC_008:  ##### Start of Test Case : sign in to phptravel app #####
+ INFO | 2018-08-06 17:58:47,617 | Common.java | 81 | TC_008:  Test Case Name: TC_008
+ INFO | 2018-08-06 17:58:47,617 | Common.java | 81 | TC_008:  Getting value of TestDataFile from Test Configuration file : .\src\test\resources\TestData.xls
+ INFO | 2018-08-06 17:58:47,648 | Common.java | 81 | TC_008:  Test Data Set Name: TC_008
+ INFO | 2018-08-06 17:58:47,648 | Common.java | 81 | TC_008:  Execution Flag: Execute
+ INFO | 2018-08-06 17:58:47,648 | Common.java | 81 | TC_008:  Test Data Set Name: TC_008_01
+ INFO | 2018-08-06 17:58:47,648 | Common.java | 81 | TC_008:  Execution Flag: YES
+ INFO | 2018-08-06 17:58:47,648 | Common.java | 81 | TC_008:  Test Data Set Name: 
+ INFO | 2018-08-06 17:58:47,648 | Common.java | 81 | TC_008:  Execution Flag: 
+ INFO | 2018-08-06 17:58:47,648 | Common.java | 81 | TC_008:  Getting value of Browser from Test Configuration file : Chrome
+ INFO | 2018-08-06 17:58:49,982 | Common.java | 81 | TC_008:  Getting value of url from Test Configuration file : https://www.phptravels.net/
+ERROR | 2018-08-06 17:59:31,400 | Common.java | 89 | TC_008:  Element is not visible after waiting for 30 Seconds, : Proxy element for: DefaultElementLocator 'By.xpath: (//li[@id='li_myaccount']//b/preceding-sibling::*/following::text()[1])[2]'
+ERROR | 2018-08-06 17:59:31,400 | Common.java | 89 | TC_008:  Report step generation success : Element is not visible after waiting for 30 Seconds, : Proxy element for: DefaultElementLocator 'By.xpath: (//li[@id='li_myaccount']//b/preceding-sibling::*/following::text()[1])[2]'
+ INFO | 2018-08-06 17:59:31,400 | Common.java | 81 | TC_008:  Getting value of Browser from Test Configuration file : Chrome
+ INFO | 2018-08-06 17:59:45,436 | Common.java | 81 | TC_008:  Getting value of ExecuteRemainingStepsOnFailure(Yes/No) from Test Configuration file : Yes
+ INFO | 2018-08-06 17:59:45,436 | Common.java | 81 | TC_008:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 5
+ INFO | 2018-08-06 17:59:45,437 | Common.java | 81 | TC_008:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 5
+ INFO | 2018-08-06 17:59:45,437 | Common.java | 81 | TC_008:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 5
+ INFO | 2018-08-06 17:59:45,437 | Common.java | 81 | TC_008:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 5

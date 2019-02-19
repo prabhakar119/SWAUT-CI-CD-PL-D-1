@@ -1,0 +1,155 @@
+ INFO | 2019-01-24 15:59:09,023 | Common.java | 81 | null:  Startup activites...
+ INFO | 2019-01-24 15:59:09,027 | Common.java | 81 | null:  Test Output Directory creation successful :C:\Files\SWAUT\TestResults\2019_01_24_03_59_08_PM
+ INFO | 2019-01-24 15:59:09,027 | Common.java | 81 | null:  Log File creation successful : LogFile.log
+ INFO | 2019-01-24 15:59:09,311 | Common.java | 81 | null:  Getting value of Tc_Settings_Excelpath from Test Configuration file : ./src/test/resources/TestCaseSettings.xls
+ INFO | 2019-01-24 15:59:09,396 | Common.java | 81 | null:  Getting value of TestDataFile from Test Configuration file : .\src\test\resources\TestData.xls
+ INFO | 2019-01-24 15:59:09,683 | Common.java | 81 | __CLR4_3_1ne4tjkti:  Getting value of ElementLoadWaitTime from Test Configuration file : 30
+ INFO | 2019-01-24 15:59:09,684 | Common.java | 81 | __CLR4_3_1ne4tjkti:  Getting value of TextLoadWaitTime from Test Configuration file : 10
+ INFO | 2019-01-24 15:59:09,686 | Common.java | 81 | __CLR4_3_1ne4tjkti:  Getting value of PageLoadWaitTime from Test Configuration file : 120
+ INFO | 2019-01-24 15:59:09,687 | Common.java | 81 | __CLR4_3_1ne4tjkti:  Getting value of ImplicitlyWaitTime from Test Configuration file : 30
+ INFO | 2019-01-24 15:59:09,688 | Common.java | 81 | __CLR4_3_1ne4tjkti:  Getting value of Server_url from Test Configuration file : http://192.168.80.247/testlink/lib/api/xmlrpc/v1/xmlrpc.php
+ INFO | 2019-01-24 15:59:09,690 | Common.java | 81 | __CLR4_3_1ne4tjkti:  Getting value of Dev_key from Test Configuration file : f8f80ad8ea180f0783bc74555cf948f0
+ INFO | 2019-01-24 15:59:09,691 | Common.java | 81 | __CLR4_3_1ne4tjkti:  Getting value of Project_Name from Test Configuration file : Sample
+ INFO | 2019-01-24 15:59:09,691 | Common.java | 81 | __CLR4_3_1ne4tjkti:  Getting value of Plan_Name from Test Configuration file : Testplan
+ INFO | 2019-01-24 15:59:09,692 | Common.java | 81 | __CLR4_3_1ne4tjkti:  Getting value of Build_Name from Test Configuration file : Build
+ INFO | 2019-01-24 15:59:09,693 | Common.java | 81 | __CLR4_3_1ne4tjkti:  Getting value of TestSuiteNum from Test Configuration file : 4
+ INFO | 2019-01-24 15:59:09,693 | Common.java | 81 | __CLR4_3_1ne4tjkti:  Element time out set
+ INFO | 2019-01-24 15:59:09,695 | Common.java | 81 | __CLR4_3_1ne4tjkti:  ##### Start of Test Case : sign in successfully #####
+ INFO | 2019-01-24 15:59:09,695 | Common.java | 81 | __CLR4_3_1ne4tjkti:  Test Case Name: TC_009
+ INFO | 2019-01-24 15:59:09,695 | Common.java | 81 | __CLR4_3_1ne4tjkti:  Getting value of TestDataFile from Test Configuration file : .\src\test\resources\TestData.xls
+ INFO | 2019-01-24 15:59:09,749 | Common.java | 81 | __CLR4_3_1ne4tjkti:  Test Data Set Name: TC_009
+ INFO | 2019-01-24 15:59:09,750 | Common.java | 81 | __CLR4_3_1ne4tjkti:  Execution Flag: Execute
+ INFO | 2019-01-24 15:59:09,750 | Common.java | 81 | __CLR4_3_1ne4tjkti:  Test Data Set Name: TC_009_01
+ INFO | 2019-01-24 15:59:09,750 | Common.java | 81 | __CLR4_3_1ne4tjkti:  Execution Flag: YES
+ INFO | 2019-01-24 15:59:09,751 | Common.java | 81 | __CLR4_3_1ne4tjkti:  Test Data Set Name: 
+ INFO | 2019-01-24 15:59:09,751 | Common.java | 81 | __CLR4_3_1ne4tjkti:  Execution Flag: 
+ INFO | 2019-01-24 15:59:09,755 | Common.java | 81 | __CLR4_3_1ne4tjkti:  Getting value of Browser from Test Configuration file : Chrome
+ INFO | 2019-01-24 15:59:29,221 | Common.java | 81 | __CLR4_3_1ne4tjkti:  Getting value of url from Test Configuration file : https://www.phptravels.net/
+ INFO | 2019-01-24 15:59:50,662 | Common.java | 81 | __CLR4_3_1ne4tjkti:  Getting value of Browser from Test Configuration file : Chrome
+ INFO | 2019-01-24 16:00:03,386 | Common.java | 81 | __CLR4_3_1ne4tjkti:  Clicked on WebElement-myaccount
+ INFO | 2019-01-24 16:00:03,929 | Common.java | 77 | __CLR4_3_1ne4tjkti:  Report step generation success : Clicked on WebElement-myaccount
+ INFO | 2019-01-24 16:00:07,825 | Common.java | 81 | __CLR4_3_1ne4tjkti:  Clicked on WebElement-sign up
+ INFO | 2019-01-24 16:00:07,825 | Common.java | 77 | __CLR4_3_1ne4tjkti:  Report step generation success : Clicked on WebElement-sign up
+ERROR | 2019-01-24 16:02:08,463 | Common.java | 89 | __CLR4_3_1ne4tjkti:  Element is not visible after waiting for 30 Seconds, : Proxy element for: DefaultElementLocator 'By.xpath: //input[@name='firstname']'
+ERROR | 2019-01-24 16:02:08,463 | Common.java | 89 | __CLR4_3_1ne4tjkti:  Report step generation success : Element is not visible after waiting for 30 Seconds, : Proxy element for: DefaultElementLocator 'By.xpath: //input[@name='firstname']'
+ INFO | 2019-01-24 16:02:08,468 | Common.java | 81 | __CLR4_3_1ne4tjkti:  Getting value of Browser from Test Configuration file : Chrome
+ INFO | 2019-01-24 16:02:09,788 | Common.java | 81 | __CLR4_3_1ne4tjkti:  Getting value of ExecuteRemainingStepsOnFailure(Yes/No) from Test Configuration file : Yes
+ INFO | 2019-01-24 16:02:09,789 | Common.java | 81 | __CLR4_3_1ne4tjkti:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 5
+ INFO | 2019-01-24 16:02:09,789 | Common.java | 81 | __CLR4_3_1ne4tjkti:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 5
+ INFO | 2019-01-24 16:02:09,789 | Common.java | 81 | __CLR4_3_1ne4tjkti:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 5
+ INFO | 2019-01-24 16:02:09,789 | Common.java | 81 | __CLR4_3_1ne4tjkti:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 5
+ERROR | 2019-01-24 16:03:09,877 | Common.java | 89 | __CLR4_3_1ne4tjkti:  Element is not displayed, Unable to enter text->darshan
+ERROR | 2019-01-24 16:03:09,877 | Common.java | 89 | __CLR4_3_1ne4tjkti:  Report step generation success : Element is not displayed, Unable to enter text->darshan
+ INFO | 2019-01-24 16:03:09,878 | Common.java | 81 | __CLR4_3_1ne4tjkti:  Getting value of Browser from Test Configuration file : Chrome
+ INFO | 2019-01-24 16:03:11,288 | Common.java | 81 | __CLR4_3_1ne4tjkti:  Getting value of ExecuteRemainingStepsOnFailure(Yes/No) from Test Configuration file : Yes
+ INFO | 2019-01-24 16:03:11,289 | Common.java | 81 | __CLR4_3_1ne4tjkti:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 5
+ INFO | 2019-01-24 16:03:11,289 | Common.java | 81 | __CLR4_3_1ne4tjkti:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 5
+ INFO | 2019-01-24 16:03:11,289 | Common.java | 81 | __CLR4_3_1ne4tjkti:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 5
+ INFO | 2019-01-24 16:03:11,290 | Common.java | 81 | __CLR4_3_1ne4tjkti:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 5
+ERROR | 2019-01-24 16:04:41,402 | Common.java | 89 | __CLR4_3_1ne4tjkti:  Element is not visible after waiting for 5 Seconds, : Proxy element for: DefaultElementLocator 'By.xpath: //input[@name='lastname']'
+ERROR | 2019-01-24 16:04:41,402 | Common.java | 89 | __CLR4_3_1ne4tjkti:  Report step generation success : Element is not visible after waiting for 5 Seconds, : Proxy element for: DefaultElementLocator 'By.xpath: //input[@name='lastname']'
+ INFO | 2019-01-24 16:04:41,402 | Common.java | 81 | __CLR4_3_1ne4tjkti:  Getting value of Browser from Test Configuration file : Chrome
+ INFO | 2019-01-24 16:04:42,739 | Common.java | 81 | __CLR4_3_1ne4tjkti:  Getting value of ExecuteRemainingStepsOnFailure(Yes/No) from Test Configuration file : Yes
+ INFO | 2019-01-24 16:04:42,740 | Common.java | 81 | __CLR4_3_1ne4tjkti:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 5
+ INFO | 2019-01-24 16:04:42,740 | Common.java | 81 | __CLR4_3_1ne4tjkti:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 5
+ INFO | 2019-01-24 16:04:42,741 | Common.java | 81 | __CLR4_3_1ne4tjkti:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 5
+ INFO | 2019-01-24 16:04:42,741 | Common.java | 81 | __CLR4_3_1ne4tjkti:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 5
+ERROR | 2019-01-24 16:05:42,795 | Common.java | 89 | __CLR4_3_1ne4tjkti:  Element is not displayed, Unable to enter text->kumar
+ERROR | 2019-01-24 16:05:42,795 | Common.java | 89 | __CLR4_3_1ne4tjkti:  Report step generation success : Element is not displayed, Unable to enter text->kumar
+ INFO | 2019-01-24 16:05:42,796 | Common.java | 81 | __CLR4_3_1ne4tjkti:  Getting value of Browser from Test Configuration file : Chrome
+ INFO | 2019-01-24 16:05:44,384 | Common.java | 81 | __CLR4_3_1ne4tjkti:  Getting value of ExecuteRemainingStepsOnFailure(Yes/No) from Test Configuration file : Yes
+ INFO | 2019-01-24 16:05:44,385 | Common.java | 81 | __CLR4_3_1ne4tjkti:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 5
+ INFO | 2019-01-24 16:05:44,385 | Common.java | 81 | __CLR4_3_1ne4tjkti:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 5
+ INFO | 2019-01-24 16:05:44,386 | Common.java | 81 | __CLR4_3_1ne4tjkti:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 5
+ INFO | 2019-01-24 16:05:44,386 | Common.java | 81 | __CLR4_3_1ne4tjkti:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 5
+ERROR | 2019-01-24 16:07:15,906 | Common.java | 89 | __CLR4_3_1ne4tjkti:  Element is not visible after waiting for 5 Seconds, : Proxy element for: DefaultElementLocator 'By.xpath: //input[@name='phone']'
+ERROR | 2019-01-24 16:07:15,907 | Common.java | 89 | __CLR4_3_1ne4tjkti:  Report step generation success : Element is not visible after waiting for 5 Seconds, : Proxy element for: DefaultElementLocator 'By.xpath: //input[@name='phone']'
+ INFO | 2019-01-24 16:07:15,908 | Common.java | 81 | __CLR4_3_1ne4tjkti:  Getting value of Browser from Test Configuration file : Chrome
+ INFO | 2019-01-24 16:07:18,947 | Common.java | 81 | __CLR4_3_1ne4tjkti:  Getting value of ExecuteRemainingStepsOnFailure(Yes/No) from Test Configuration file : Yes
+ INFO | 2019-01-24 16:07:18,948 | Common.java | 81 | __CLR4_3_1ne4tjkti:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 5
+ INFO | 2019-01-24 16:07:18,949 | Common.java | 81 | __CLR4_3_1ne4tjkti:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 5
+ INFO | 2019-01-24 16:07:18,950 | Common.java | 81 | __CLR4_3_1ne4tjkti:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 5
+ INFO | 2019-01-24 16:07:18,950 | Common.java | 81 | __CLR4_3_1ne4tjkti:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 5
+ERROR | 2019-01-24 16:08:19,045 | Common.java | 89 | __CLR4_3_1ne4tjkti:  Element is not displayed, Unable to enter text->1234567890
+ERROR | 2019-01-24 16:08:19,045 | Common.java | 89 | __CLR4_3_1ne4tjkti:  Report step generation success : Element is not displayed, Unable to enter text->1234567890
+ INFO | 2019-01-24 16:08:19,045 | Common.java | 81 | __CLR4_3_1ne4tjkti:  Getting value of Browser from Test Configuration file : Chrome
+ INFO | 2019-01-24 16:08:20,495 | Common.java | 81 | __CLR4_3_1ne4tjkti:  Getting value of ExecuteRemainingStepsOnFailure(Yes/No) from Test Configuration file : Yes
+ INFO | 2019-01-24 16:08:20,495 | Common.java | 81 | __CLR4_3_1ne4tjkti:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 5
+ INFO | 2019-01-24 16:08:20,495 | Common.java | 81 | __CLR4_3_1ne4tjkti:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 5
+ INFO | 2019-01-24 16:08:20,496 | Common.java | 81 | __CLR4_3_1ne4tjkti:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 5
+ INFO | 2019-01-24 16:08:20,496 | Common.java | 81 | __CLR4_3_1ne4tjkti:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 5
+ERROR | 2019-01-24 16:09:50,779 | Common.java | 89 | __CLR4_3_1ne4tjkti:  Element is not visible after waiting for 5 Seconds, : Proxy element for: DefaultElementLocator 'By.xpath: //input[@name='email']'
+ERROR | 2019-01-24 16:09:50,779 | Common.java | 89 | __CLR4_3_1ne4tjkti:  Report step generation success : Element is not visible after waiting for 5 Seconds, : Proxy element for: DefaultElementLocator 'By.xpath: //input[@name='email']'
+ INFO | 2019-01-24 16:09:50,780 | Common.java | 81 | __CLR4_3_1ne4tjkti:  Getting value of Browser from Test Configuration file : Chrome
+ INFO | 2019-01-24 16:09:52,372 | Common.java | 81 | __CLR4_3_1ne4tjkti:  Getting value of ExecuteRemainingStepsOnFailure(Yes/No) from Test Configuration file : Yes
+ INFO | 2019-01-24 16:09:52,372 | Common.java | 81 | __CLR4_3_1ne4tjkti:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 5
+ INFO | 2019-01-24 16:09:52,373 | Common.java | 81 | __CLR4_3_1ne4tjkti:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 5
+ INFO | 2019-01-24 16:09:52,373 | Common.java | 81 | __CLR4_3_1ne4tjkti:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 5
+ INFO | 2019-01-24 16:09:52,373 | Common.java | 81 | __CLR4_3_1ne4tjkti:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 5
+ERROR | 2019-01-24 16:10:52,438 | Common.java | 89 | __CLR4_3_1ne4tjkti:  Element is not displayed, Unable to enter text->darsghan22@gmail.com
+ERROR | 2019-01-24 16:10:52,439 | Common.java | 89 | __CLR4_3_1ne4tjkti:  Report step generation success : Element is not displayed, Unable to enter text->darsghan22@gmail.com
+ INFO | 2019-01-24 16:10:52,439 | Common.java | 81 | __CLR4_3_1ne4tjkti:  Getting value of Browser from Test Configuration file : Chrome
+ INFO | 2019-01-24 16:10:53,799 | Common.java | 81 | __CLR4_3_1ne4tjkti:  Getting value of ExecuteRemainingStepsOnFailure(Yes/No) from Test Configuration file : Yes
+ INFO | 2019-01-24 16:10:53,800 | Common.java | 81 | __CLR4_3_1ne4tjkti:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 5
+ INFO | 2019-01-24 16:10:53,800 | Common.java | 81 | __CLR4_3_1ne4tjkti:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 5
+ INFO | 2019-01-24 16:10:53,800 | Common.java | 81 | __CLR4_3_1ne4tjkti:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 5
+ INFO | 2019-01-24 16:10:53,800 | Common.java | 81 | __CLR4_3_1ne4tjkti:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 5
+ERROR | 2019-01-24 16:12:25,026 | Common.java | 89 | __CLR4_3_1ne4tjkti:  Element is not visible after waiting for 5 Seconds, : Proxy element for: DefaultElementLocator 'By.xpath: //input[@name='password']'
+ERROR | 2019-01-24 16:12:25,093 | Common.java | 89 | __CLR4_3_1ne4tjkti:  Report step generation success : Element is not visible after waiting for 5 Seconds, : Proxy element for: DefaultElementLocator 'By.xpath: //input[@name='password']'
+ INFO | 2019-01-24 16:12:25,125 | Common.java | 81 | __CLR4_3_1ne4tjkti:  Getting value of Browser from Test Configuration file : Chrome
+ INFO | 2019-01-24 16:12:27,046 | Common.java | 81 | __CLR4_3_1ne4tjkti:  Getting value of ExecuteRemainingStepsOnFailure(Yes/No) from Test Configuration file : Yes
+ INFO | 2019-01-24 16:12:27,046 | Common.java | 81 | __CLR4_3_1ne4tjkti:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 5
+ INFO | 2019-01-24 16:12:27,046 | Common.java | 81 | __CLR4_3_1ne4tjkti:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 5
+ INFO | 2019-01-24 16:12:27,047 | Common.java | 81 | __CLR4_3_1ne4tjkti:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 5
+ INFO | 2019-01-24 16:12:27,219 | Common.java | 81 | __CLR4_3_1ne4tjkti:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 5
+ERROR | 2019-01-24 16:13:27,580 | Common.java | 89 | __CLR4_3_1ne4tjkti:  Element is not displayed, Unable to enter text->darshan123
+ERROR | 2019-01-24 16:13:27,580 | Common.java | 89 | __CLR4_3_1ne4tjkti:  Report step generation success : Element is not displayed, Unable to enter text->darshan123
+ INFO | 2019-01-24 16:13:27,581 | Common.java | 81 | __CLR4_3_1ne4tjkti:  Getting value of Browser from Test Configuration file : Chrome
+ INFO | 2019-01-24 16:13:29,213 | Common.java | 81 | __CLR4_3_1ne4tjkti:  Getting value of ExecuteRemainingStepsOnFailure(Yes/No) from Test Configuration file : Yes
+ INFO | 2019-01-24 16:13:29,213 | Common.java | 81 | __CLR4_3_1ne4tjkti:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 5
+ INFO | 2019-01-24 16:13:29,214 | Common.java | 81 | __CLR4_3_1ne4tjkti:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 5
+ INFO | 2019-01-24 16:13:29,214 | Common.java | 81 | __CLR4_3_1ne4tjkti:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 5
+ INFO | 2019-01-24 16:13:29,214 | Common.java | 81 | __CLR4_3_1ne4tjkti:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 5
+ERROR | 2019-01-24 16:14:59,329 | Common.java | 89 | __CLR4_3_1ne4tjkti:  Element is not visible after waiting for 5 Seconds, : Proxy element for: DefaultElementLocator 'By.xpath: //input[@name='confirmpassword']'
+ERROR | 2019-01-24 16:14:59,330 | Common.java | 89 | __CLR4_3_1ne4tjkti:  Report step generation success : Element is not visible after waiting for 5 Seconds, : Proxy element for: DefaultElementLocator 'By.xpath: //input[@name='confirmpassword']'
+ INFO | 2019-01-24 16:14:59,330 | Common.java | 81 | __CLR4_3_1ne4tjkti:  Getting value of Browser from Test Configuration file : Chrome
+ INFO | 2019-01-24 16:15:00,764 | Common.java | 81 | __CLR4_3_1ne4tjkti:  Getting value of ExecuteRemainingStepsOnFailure(Yes/No) from Test Configuration file : Yes
+ INFO | 2019-01-24 16:15:00,764 | Common.java | 81 | __CLR4_3_1ne4tjkti:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 5
+ INFO | 2019-01-24 16:15:00,765 | Common.java | 81 | __CLR4_3_1ne4tjkti:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 5
+ INFO | 2019-01-24 16:15:00,765 | Common.java | 81 | __CLR4_3_1ne4tjkti:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 5
+ INFO | 2019-01-24 16:15:00,765 | Common.java | 81 | __CLR4_3_1ne4tjkti:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 5
+ERROR | 2019-01-24 16:16:00,817 | Common.java | 89 | __CLR4_3_1ne4tjkti:  Element is not displayed, Unable to enter text->darshan123
+ERROR | 2019-01-24 16:16:00,818 | Common.java | 89 | __CLR4_3_1ne4tjkti:  Report step generation success : Element is not displayed, Unable to enter text->darshan123
+ INFO | 2019-01-24 16:16:00,818 | Common.java | 81 | __CLR4_3_1ne4tjkti:  Getting value of Browser from Test Configuration file : Chrome
+ INFO | 2019-01-24 16:16:02,318 | Common.java | 81 | __CLR4_3_1ne4tjkti:  Getting value of ExecuteRemainingStepsOnFailure(Yes/No) from Test Configuration file : Yes
+ INFO | 2019-01-24 16:16:02,319 | Common.java | 81 | __CLR4_3_1ne4tjkti:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 5
+ INFO | 2019-01-24 16:16:02,319 | Common.java | 81 | __CLR4_3_1ne4tjkti:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 5
+ INFO | 2019-01-24 16:16:02,319 | Common.java | 81 | __CLR4_3_1ne4tjkti:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 5
+ INFO | 2019-01-24 16:16:02,319 | Common.java | 81 | __CLR4_3_1ne4tjkti:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 5
+ERROR | 2019-01-24 16:17:32,822 | Common.java | 89 | __CLR4_3_1ne4tjkti:  Element is not visible after waiting for 5 Seconds, : Proxy element for: DefaultElementLocator 'By.xpath: //button[@class='signupbtn btn_full btn btn-action btn-block btn-lg']'
+ERROR | 2019-01-24 16:17:32,885 | Common.java | 89 | __CLR4_3_1ne4tjkti:  Report step generation success : Element is not visible after waiting for 5 Seconds, : Proxy element for: DefaultElementLocator 'By.xpath: //button[@class='signupbtn btn_full btn btn-action btn-block btn-lg']'
+ INFO | 2019-01-24 16:17:32,885 | Common.java | 81 | __CLR4_3_1ne4tjkti:  Getting value of Browser from Test Configuration file : Chrome
+ INFO | 2019-01-24 16:17:34,756 | Common.java | 81 | __CLR4_3_1ne4tjkti:  Getting value of ExecuteRemainingStepsOnFailure(Yes/No) from Test Configuration file : Yes
+ INFO | 2019-01-24 16:17:34,757 | Common.java | 81 | __CLR4_3_1ne4tjkti:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 5
+ INFO | 2019-01-24 16:17:34,757 | Common.java | 81 | __CLR4_3_1ne4tjkti:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 5
+ INFO | 2019-01-24 16:17:34,757 | Common.java | 81 | __CLR4_3_1ne4tjkti:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 5
+ INFO | 2019-01-24 16:17:34,758 | Common.java | 81 | __CLR4_3_1ne4tjkti:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 5
+ERROR | 2019-01-24 16:19:08,646 | Common.java | 89 | __CLR4_3_1ne4tjkti:  Unable to click on Element signup, Element with following property is not displayed->Proxy element for: DefaultElementLocator 'By.xpath: //button[@class='signupbtn btn_full btn btn-action btn-block btn-lg']'
+ERROR | 2019-01-24 16:19:08,759 | Common.java | 89 | __CLR4_3_1ne4tjkti:  Report step generation success : Unable to click on Element signup, Element with following property is not displayed->Proxy element for: DefaultElementLocator 'By.xpath: //button[@class='signupbtn btn_full btn btn-action btn-block btn-lg']'
+ INFO | 2019-01-24 16:19:08,866 | Common.java | 81 | __CLR4_3_1ne4tjkti:  Getting value of Browser from Test Configuration file : Chrome
+ INFO | 2019-01-24 16:19:13,929 | Common.java | 81 | __CLR4_3_1ne4tjkti:  Getting value of ExecuteRemainingStepsOnFailure(Yes/No) from Test Configuration file : Yes
+ INFO | 2019-01-24 16:19:13,929 | Common.java | 81 | __CLR4_3_1ne4tjkti:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 5
+ INFO | 2019-01-24 16:19:13,930 | Common.java | 81 | __CLR4_3_1ne4tjkti:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 5
+ INFO | 2019-01-24 16:19:14,271 | Common.java | 81 | __CLR4_3_1ne4tjkti:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 5
+ INFO | 2019-01-24 16:19:14,272 | Common.java | 81 | __CLR4_3_1ne4tjkti:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 5
+ INFO | 2019-01-24 16:20:10,993 | Common.java | 81 | __CLR4_3_1ne4tjkti:  Getting value of UpdateTestLinkStatus from Test Configuration file : Yes
+ INFO | 2019-01-24 16:21:36,197 | Common.java | 81 | __CLR4_3_1ne4tjkti:  Unable to update the status for TestCase->__CLR4_3_1ne4tjkti
+ INFO | 2019-01-24 16:21:36,198 | Common.java | 81 | __CLR4_3_1ne4tjkti:  Report step generation success : Unable to update the status for TestCase->__CLR4_3_1ne4tjkti
+ INFO | 2019-01-24 16:21:38,473 | Common.java | 81 | __CLR4_3_1ne4tjkti:  Getting value of SendMail(Yes/No) from Test Configuration file : No
+ INFO | 2019-01-24 16:21:38,473 | Common.java | 81 | __CLR4_3_1ne4tjkti:  Getting value of SendMsg(Yes/No) from Test Configuration file : No
+ INFO | 2019-01-24 16:21:38,474 | Common.java | 81 | __CLR4_3_1ne4tjkti:  Getting value of VoiceCall(Yes/No) from Test Configuration file : No
+ INFO | 2019-01-24 16:22:01,104 | Common.java | 81 | __CLR4_3_1ne4tjkti:  Unable to attach the file to TestLink in following path->C:\Files\SWAUT\TestResults\2019_01_24_03_59_08_PM/Results.html
+ INFO | 2019-01-24 16:22:01,104 | Common.java | 81 | __CLR4_3_1ne4tjkti:  Report step generation success : Unable to attach the file to TestLink in following path->C:\Files\SWAUT\TestResults\2019_01_24_03_59_08_PM/Results.html
+ INFO | 2019-01-24 16:22:01,104 | Common.java | 81 | __CLR4_3_1ne4tjkti:  ###################################
+ INFO | 2019-01-24 16:22:01,104 | Common.java | 81 | __CLR4_3_1ne4tjkti:  Script Execution Complete
+ INFO | 2019-01-24 16:22:01,105 | Common.java | 81 | __CLR4_3_1ne4tjkti:  ####################################

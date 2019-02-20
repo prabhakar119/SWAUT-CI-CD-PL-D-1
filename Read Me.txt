@@ -8,5 +8,3 @@ testLink
 
 * Added Category in report
 
-
-egsdgwefgsegve

@@ -7,3 +7,5 @@ testLink
 * Full screenshot
 
 * Added Category in report
+
+* Testing

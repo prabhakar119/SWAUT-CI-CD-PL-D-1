@@ -1,6 +1,6 @@
 node {
     stage('SCM Checkout'){
-        git credentialsId: 'Git', url: 'https://github.com/prabhakar119/SWAUT-CI-CD-PL-D-1.git'
+        git credentialsId: 'a6c06d7d-51b6-463e-bc6c-2f7a0f1791f3', url: 'https://github.com/prabhakar119/SWAUT-CI-CD-PL-D-1.git'
     }
     stage('Compile'){
         def mvnHome = tool name: 'Maven', type: 'maven'
